@@ -39,4 +39,4 @@ Once the data is imported in Power BI, we do ‘transform data’ i.e. using Pow
 A report is created in Power BI with various charts depicting Sales insights for particular year, month and so on. We created Slicers, Data Cards, Sales Trend for Year and Month, Table for top ordered item, top performing sales representatives and relationship between different variables that directly or indirectly impact sales.
 
 ##### Deployment in Power BI
-In Power BI, You can directly publish the report online to your workstation. If you do not have the work email-id then you can save the file in ‘.pbix’ version. This helps another viewer see your work and understand the story or insights you’re communicating.
+In Power BI, You can directly publish the report online to your workstation. You can also save the file in ‘.pbix’ version and can update the content of your Power BI apps using a deployment pipeline, giving you more control and flexibility when it comes to your app's lifecycle. Use the publish or view button in the workspace card to publish or view the app in a specific pipeline stage.
