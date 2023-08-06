@@ -3,7 +3,7 @@ Business_Intelligence_Internship_Project_iNeuron
 # Amazon Sales Data Analysis with Python and Power BI
 
 ### Problem Statement:
-The management team of Amazon currently looking to understand market behavior and sales trend to gain a competitive advantage. The objective of the project is to create a report on Sales trend year-wise, month-wise to understand the factors directly affecting the sales. This project aims apply Business Intelligence tool such as Power BI to get a visual understanding the sales data.
+The management team at Amazon wants to understand market behavior and sales trends for gaining a competitive advantage. The project's objective is to create a simple report on year-wise and month-wise sales trends, aiming to identify the key factors influencing sales. To achieve this, they plan to utilize the Business Intelligence tool Power BI for visualizing the sales data.
 
 ### Data Description:
 
